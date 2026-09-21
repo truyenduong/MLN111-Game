@@ -1,0 +1,43 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.34" stroke="#4F806C" stroke-width="3">
+    <circle cx="965" cy="178" r="124"/>
+    <circle cx="965" cy="178" r="82"/>
+    <circle cx="965" cy="178" r="34"/>
+    <path d="M841 178h248M965 54v248M877 90l176 176M1053 90L877 266"/>
+    <circle cx="875" cy="386" r="10" fill="#D88952" stroke="none"/>
+    <circle cx="1050" cy="386" r="10" fill="#D88952" stroke="none"/>
+    <circle cx="962" cy="470" r="10" fill="#D88952" stroke="none"/>
+    <path d="M875 386l87 84 88-84M875 386l87-84 88 84"/>
+  </g>
+  <g opacity="0.3" stroke="#6F8E80" stroke-width="4">
+    <path d="M84 700h330v30H84zM112 730h274v80H112zM74 810h350v26H74z"/>
+    <path d="M140 730v80M204 730v80M268 730v80M332 730v80"/>
+    <path d="M158 700V594h182v106M128 594h242l-28-34H156z"/>
+    <path d="M190 560c20-78 43-115 69-144 26 29 49 66 69 144M184 526h150M200 485h118M221 444h76"/>
+  </g>
+  <g opacity="0.32" stroke="#D88952" stroke-width="4">
+    <path d="M575 720c88-66 177-66 265 0l-132 74z"/>
+    <path d="M575 720c88 65 177 65 265 0M708 794V650"/>
+    <path d="M602 698c71-29 142-29 212 0"/>
+  </g>
+  <g opacity="0.25" fill="#4F806C">
+    <circle cx="188" cy="168" r="5"/><circle cx="236" cy="124" r="5"/><circle cx="288" cy="168" r="5"/><circle cx="236" cy="216" r="5"/>
+    <path d="M188 168l48-44 52 44-52 48z" fill="none" stroke="#4F806C" stroke-width="3"/>
+  </g>
+  <g opacity="0.34" stroke="#A95745" stroke-width="3">
+    <path d="M420 120h255v154H420z"/>
+    <path d="M438 145h219M438 175h177M438 205h201M438 235h128"/>
+    <path d="M420 120l-25 18v153h255l25-17"/>
+  </g>
+  <g opacity="0.3" stroke="#4F806C" stroke-width="3">
+    <circle cx="770" cy="525" r="58"/>
+    <circle cx="770" cy="525" r="20"/>
+    <path d="M770 447v-28M770 631v-28M692 525h-28M876 525h-28M715 470l-20-20M845 600l-20-20M715 580l-20 20M845 450l-20 20"/>
+    <path d="M770 486v39l29 20"/>
+    <path d="M770 410c63 0 115 51 115 115M885 525l-19-8M885 525l-8 18"/>
+  </g>
+  <g opacity="0.3" fill="#A95745" font-family="Georgia, serif" text-anchor="middle">
+    <text x="230" y="315" font-size="25" letter-spacing="4">MAC - LENIN</text>
+    <text x="230" y="345" font-size="13" letter-spacing="2">LY LUAN · THUC TIEN · BIEN CHUNG</text>
+  </g>
+</svg>
